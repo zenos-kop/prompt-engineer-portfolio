@@ -1,0 +1,22 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Copywriting Project",
+      "description": "A project focused on creating compelling copywriting content.",
+      "file": "assets/pdf/Case-Study-1.pdf"
+    },
+    {
+      "id": 2,
+      "title": "LLM Comparison",
+      "description": "A project comparing large language models.",
+      "file": "assets/pdf/studi-kasus-2.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Social Strategy",
+      "description": "A project developing social media strategies.",
+      "file": "assets/pdf/studi-kasus-3.pdf"
+    }
+  ]
+}
